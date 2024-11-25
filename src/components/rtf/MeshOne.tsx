@@ -5,7 +5,7 @@ import * as THREE from "three";
 const MeshOne = () => {
   const texture = useTexture("/images/myimageOne.jpg");
   const image = useRef<any>(null);
-  useFrame((state, delta) => {
+  useFrame((_, delta) => {
     image.current.rotation.y += (delta * 1) / 2;
   });
   return (

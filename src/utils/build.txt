@@ -1,0 +1,32 @@
+pages -> Landing Page , Projects Page , about page(skills included) , contact page ,
+
+common componnets -> nav and footer and mouse follower
+
+Landing Page :  
+        welcome 
+        Hello I am Teja fullstack developer
+        about me
+        spider web effect
+About Page:
+    photo and moto (left section)
+    content (right section) and download resume button
+
+    myskills another section
+    skills and rating
+
+    typing , japanese
+    extracurricular activities (webclub)
+    resources :
+        youtube and chatGPT and documentation
+    Hobbies : 
+        freefire and anime
+    education optional
+
+Projects Page :
+    priotrity wise projects and description (tech stack , importance , )
+
+    first team projects
+    personal projects (with github link and website link)
+
+contact page:
+    links , mail , 
